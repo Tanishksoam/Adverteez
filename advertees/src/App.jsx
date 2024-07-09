@@ -2,6 +2,7 @@ import "./App.css";
 import Design from "./components/Design";
 import Navbar from "./components/Navbar";
 import TargetAudience from "./components/TargetAudience";
+import Track from "./components/Track";
 import Hero from "./components/hero";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
 
       <div className="w-full flex flex-col items-start justify-start  bg-[#f3f3ff] px-52 py-6">
         <Design />
+        <Track />
       </div>
     </div>
   );
