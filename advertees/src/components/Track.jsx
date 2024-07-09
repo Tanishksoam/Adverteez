@@ -24,27 +24,31 @@ const Track = () => {
         </div>
         <div className=" flex items-start justify-start text-lg align-text-bottom gap-5">
           <div className=" w-[350px] flex flex-col justify-start items-start py-4 px-4">
-            <h4 className=" w-full font-bold text-2xl py-4 ">Birthdays</h4>
+            <h4 className=" w-full font-bold text-2xl py-4 ">
+              Increased Brand Awareness
+            </h4>
             <p>
               {" "}
-              Celebrate new beginnings with a vibrant plant symbolizing growth
-              and joy.
+              Our campaigns have helped businesses reach new customers and boost
+              their brand visibility.
             </p>
           </div>
           <div className=" w-[350px] flex flex-col justify-start items-start py-4 px-4">
-            <h4 className=" font-bold text-2xl py-4 ">Anniversaries</h4>
+            <h4 className=" font-bold text-2xl py-4 ">Improved Sales</h4>
             <p>
               {" "}
-              Commemorate love and commitment with a timeless plant that
-              represents enduring beauty.
+              Our designs have driven conversions and generated tangible results
+              for our clients.
             </p>
           </div>
           <div className=" w-[350px] flex flex-col justify-start items-start py-4 px-4">
-            <h4 className=" font-bold text-2xl py-4 ">Graduations</h4>
+            <h4 className=" font-bold text-2xl py-4 ">
+              Positive Customer Feedback
+            </h4>
             <p>
               {" "}
-              Congratulate achievements with a plant that signifies new chapters
-              and exciting opportunities.
+              We have a strong reputation for delivering high-quality designs
+              and excellent customer service.
             </p>
           </div>
         </div>
