@@ -10,7 +10,7 @@ const Hero = () => {
           by ads from our generous sponsors.
         </h4>
         <div className="w-auto rounded-md bg-[#2D4DF2] text-[#fdfdfd] font-semibold px-4 py-2">
-          Explore Subscriptions
+          Sponsor Us
         </div>
       </div>
       <div>

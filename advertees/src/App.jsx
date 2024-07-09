@@ -1,4 +1,5 @@
 import "./App.css";
+import Design from "./components/Design";
 import Navbar from "./components/Navbar";
 import TargetAudience from "./components/TargetAudience";
 import Hero from "./components/hero";
@@ -13,6 +14,10 @@ function App() {
 
       <div className="w-full flex flex-col items-start justify-start  bg-[#018CE1] px-52 py-6">
         <TargetAudience />
+      </div>
+
+      <div className="w-full flex flex-col items-start justify-start  bg-[#f3f3ff] px-52 py-6">
+        <Design />
       </div>
     </div>
   );
