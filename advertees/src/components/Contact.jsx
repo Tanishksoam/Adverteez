@@ -13,7 +13,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="w-full rounded-2xl flex flex-col justify-center items-center gap-10 bg-[#adaebf] px-4 py-10">
+    <div className="w-full rounded-2xl flex flex-col justify-center items-center gap-10 bg-[#f3f3ff] px-4 py-10">
       <h1 className="text-4xl">Flexible Advertising Packages</h1>
       <div className="w-[80%] flex flex-col justify-start items-start gap-6">
         <div
@@ -24,7 +24,7 @@ const Contact = () => {
             size={20}
             className={`transform ${
               toggle ? "rotate-180" : "rotate-90"
-            } duration-300`}
+            } duration-100`}
           />
           <h4>Tailored to Your Needs</h4>
         </div>
@@ -54,7 +54,7 @@ const Contact = () => {
             size={20}
             className={`transform ${
               toggle1 ? "rotate-180" : "rotate-90"
-            } duration-300`}
+            } duration-100`}
           />
           <h4>Variety of Options</h4>
         </div>

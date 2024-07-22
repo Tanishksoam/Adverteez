@@ -23,7 +23,7 @@ function App() {
         <Design />
         <Track />
       </div>
-      <div className="w-full flex flex-col items-start justify-start  bg-[#0e0e31] px-52 py-6">
+      <div className="w-full flex flex-col items-start justify-start  bg-[#2d4df2] px-52 py-6">
         <Contact />
       </div>
       <div className="w-full flex flex-col items-start justify-start  bg-[#f3f3ff] px-52 py-6">
